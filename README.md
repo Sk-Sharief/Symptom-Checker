@@ -2,6 +2,9 @@
 
 A comprehensive web application that uses machine learning to analyze user symptoms and predict potential diseases, providing home remedies and self-care recommendations.
 
+## 👩‍💻 Deployment Link
+    **https://symptomcheckerai.zite.so**
+
 ## 🌟 Features
 
 - **Intuitive User Interface**: Clean, modern, and responsive design
@@ -144,6 +147,25 @@ The app currently uses a mock ML model for demonstration. To integrate a real mo
 - **Severity Indicators**: Visual probability indicators for conditions
 - **Safe Remedies**: Only evidence-based, safe home remedies included
 
+## Pictures
+Home Page:
+
+<img width="1903" height="932" alt="image" src="https://github.com/user-attachments/assets/eba9f736-e8f3-4463-bf68-f9806d42c718" />
+
+Symptom Check Page:
+
+<img width="1899" height="928" alt="image" src="https://github.com/user-attachments/assets/d47b85bf-57f7-46b2-9b11-05cf04d170c5" />
+
+Diagnosis Page:
+
+<img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/aec78e70-c011-447c-86c0-299c8d861b58" />
+
+Home Remedies Page:
+
+<img width="1895" height="925" alt="image" src="https://github.com/user-attachments/assets/531c5e2f-7167-429f-ae46-ad326291a046" />
+
+
+
 ## 🎨 UI/UX Features
 
 - **Responsive Design**: Works on desktop, tablet, and mobile
@@ -205,6 +227,12 @@ The app currently uses a mock ML model for demonstration. To integrate a real mo
 
 4. **Professional Review**: Have medical professionals review the content and recommendations before public deployment.
 
+## 🚀 Developers
+
+1. Sharief Sk ( https://github.com/Sk-Sharief )
+2. G. Nithin ( https://github.com/NITHIN-7S )
+
+
 ## 🤝 Contributing
 
 1. Follow the existing code style and structure
@@ -218,5 +246,6 @@ The app currently uses a mock ML model for demonstration. To integrate a real mo
 This project is intended for educational and demonstration purposes. Please ensure proper medical review and regulatory compliance before any production use.
 
 ---
+
 
 **Remember**: This application provides information only and should never be used as a substitute for professional medical advice, diagnosis, or treatment.
